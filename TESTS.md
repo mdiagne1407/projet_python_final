@@ -1,0 +1,1 @@
+# Journal de tests ## Module Fournisseurs - Ajout d'un fournisseur : OK - Liste des fournisseurs : OK - Affichage par ID et par code : OK - Modification d'un fournisseur : OK - Recherche par mot-cle : OK - Suppression bloquee si commandes associees : OK - Suppression autorisee si aucune commande : OK
