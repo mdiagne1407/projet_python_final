@@ -116,8 +116,11 @@ class Interface:
         if self.fournisseur_dao.get_by_code(code):
             print("Ce code existe déjà.")
             return
-        raison_sociale = saisir_texte("Raison sociale : ")
+        raison_sociale = saisir_texte("Raison sociale (ex: Dakar Informatique) : ")
         email = saisir_texte("Email : ", obligatoire=False)
+        if email and "@" not in email:
+            print("Format d'email invalide.")
+            return
         telephone = saisir_texte("Téléphone : ", obligatoire=False)
         adresse = saisir_texte("Adresse : ", obligatoire=False)
         f = Fournisseur(code=code, raison_sociale=raison_sociale,
