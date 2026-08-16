@@ -99,7 +99,7 @@ Un menu principal s'affiche, permettant d'accéder à la gestion des
 fournisseurs, des produits, des commandes, et aux rapports.
 
 ## Captures d'ecran ### Menu principal !
-[Menu principal](screenshots/menu-principal.png)
+[Menu principal](projet_python_final/screenshots/menu-principal.png)
 
 ### Liste des fournisseurs ![Liste des fournisseurs](screenshots/liste-fournisseurs.png) 
 
