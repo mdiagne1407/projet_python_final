@@ -98,6 +98,15 @@ python main.py
 Un menu principal s'affiche, permettant d'accéder à la gestion des
 fournisseurs, des produits, des commandes, et aux rapports.
 
+## Captures d'ecran ### Menu principal !
+[Menu principal](screenshots/menu-principal.png)
+
+### Liste des fournisseurs ![Liste des fournisseurs](screenshots/liste-fournisseurs.png) 
+
+### Detail d'une commande ![Detail d'une commande](screenshots/detail-commande.png) 
+
+### Rapport top 5 produits ![Rapport top 5](screenshots/rapport-top5.png)
+
 ## Auteurs
 
 Projet réalisé dans le cadre du cours de Programmation - POO & Base de
